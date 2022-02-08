@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://refactorfirst.com/[slug]</loc>
-  </url>
-
-  <url>
     <loc>https://refactorfirst.com/about</loc>
   </url>
 
@@ -29,85 +25,83 @@
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2020/apache-airflow-2-0-practical-jump-start</loc>
+    <loc>https://refactorfirst.com/apache-airflow-2-0-practical-jump-start</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2020/boost-java-application-performance-with-micronaut</loc>
+    <loc>https://refactorfirst.com/boost-java-application-performance-with-micronaut</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2020/defining-event-driven-achitectures-asyncapi</loc>
+    <loc>https://refactorfirst.com/defining-event-driven-achitectures-asyncapi</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2020/kind-kubernetes-cluster</loc>
+    <loc>https://refactorfirst.com/kind-kubernetes-cluster</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2020/micronaut-aws-lambda-application-for-api-gateway</loc>
+    <loc>https://refactorfirst.com/micronaut-aws-lambda-application-for-api-gateway</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2020/micronaut-jpa-aws-lambda-function</loc>
+    <loc>https://refactorfirst.com/micronaut-jpa-aws-lambda-function</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2020/spring-boot-api-first-design</loc>
+    <loc>https://refactorfirst.com/spring-boot-api-first-design</loc>
   </url>
 
   <url>
-    <loc
-      >https://refactorfirst.com/2020/spring-boot-aws-rds-jdbc-secrets-rotation-without-restart</loc
-    >
+    <loc>https://refactorfirst.com/spring-boot-aws-rds-jdbc-secrets-rotation-without-restart</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2020/spring-boot-boost-jpa-bulk-insert-performance-by-100x</loc>
+    <loc>https://refactorfirst.com/spring-boot-boost-jpa-bulk-insert-performance-by-100x</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2020/springboot-developers-guide-to-micronaut</loc>
+    <loc>https://refactorfirst.com/springboot-developers-guide-to-micronaut</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2020/what-are-java-records-in-java-16</loc>
+    <loc>https://refactorfirst.com/what-are-java-records-in-java-16</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2021/distributed-tracing-spring-boot-opentracing-jaeger</loc>
+    <loc>https://refactorfirst.com/distributed-tracing-spring-boot-opentracing-jaeger</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2021/distributed-tracing-with-spring-cloud-sleuth</loc>
+    <loc>https://refactorfirst.com/distributed-tracing-with-spring-cloud-sleuth</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2021/externalize-config-with-spring-cloud-config</loc>
+    <loc>https://refactorfirst.com/externalize-config-with-spring-cloud-config</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2021/spring-boot-spring-cache-with-ehcache-3</loc>
+    <loc>https://refactorfirst.com/spring-boot-spring-cache-with-ehcache-3</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2021/spring-boot-with-kafka-communication</loc>
+    <loc>https://refactorfirst.com/spring-boot-with-kafka-communication</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2021/spring-cloud-gateway-keycloak-oauth2-openid-connect</loc>
+    <loc>https://refactorfirst.com/spring-cloud-gateway-keycloak-oauth2-openid-connect</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2021/spring-cloud-gateway-keycloak-rbac-resource-server</loc>
+    <loc>https://refactorfirst.com/spring-cloud-gateway-keycloak-rbac-resource-server</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2021/spring-cloud-resiliance4j-circuitbreaker-and-retry</loc>
+    <loc>https://refactorfirst.com/spring-cloud-resiliance4j-circuitbreaker-and-retry</loc>
   </url>
 
   <url>
-    <loc>https://refactorfirst.com/2021/spring-cloud-stream-with-kafka-communication</loc>
+    <loc>https://refactorfirst.com/spring-cloud-stream-with-kafka-communication</loc>
   </url>
 
   <url>
